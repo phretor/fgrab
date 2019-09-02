@@ -1,0 +1,17 @@
+{
+  "name": "fgrab",
+  "version": "1.0.0",
+  "description": "Concurrent screenshot grabber based on Chrome Puppeteer",
+  "dependencies": {
+    "async": "^2.5.0",
+    "chrome-remote-interface": "^0.25.2",
+    "cwait": "^1.1.1",
+    "imghash": "0.0.3",
+    "minimist": "^1.2.0",
+    "puppeteer": "git+https://github.com/aslushnikov/puppeteer.git#fix-killchrome",
+    "sharp": "^0.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Federico Maggi"
+}
